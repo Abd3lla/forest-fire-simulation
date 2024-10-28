@@ -1,0 +1,12 @@
+{
+    "gridDimension": {
+      "width": 10,
+      "height": 10
+    },
+    "propagationProb": 0.5,
+    "initialFire": [
+      [2, 2],
+      [5, 5]
+    ]
+  }
+  
